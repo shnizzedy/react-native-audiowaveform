@@ -1,6 +1,5 @@
 {
-  "_args": [
-  ],
+  "_args": [],
   "_from": "react-native-audiowaveform@^1.0.471",
   "_id": "react-native-audiowaveform@1.0.471",
   "_inCache": true,
@@ -39,7 +38,9 @@
   "bugs": {
     "url": "https://github.com/juananime/react-native-audiowaveform/issues"
   },
-  "dependencies": {},
+  "dependencies": {
+    "react": "^16.9.0"
+  },
   "description": "Audio Waveform visualization and sound renderization for React Native",
   "devDependencies": {
     "babel-preset-react-native-stage-0": "^1.0.1",
@@ -88,7 +89,7 @@
   "name": "react-native-audiowaveform",
   "optionalDependencies": {},
   "peerDependencies": {
-    "react-native":"^0.54.0"
+    "react-native": "^0.54.0"
   },
   "readme": "ERROR: No README data found!",
   "repository": {
